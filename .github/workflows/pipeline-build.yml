@@ -24,4 +24,4 @@ jobs:
           push: true
           context: ${{ env.working-directory }}
           tags: |
-            ghcr.io/MazdakE/simplewebhalloworld:latest
+            ghcr.io/mazdake/simplewebhalloworld:master
