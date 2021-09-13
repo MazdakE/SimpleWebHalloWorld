@@ -1,4 +1,4 @@
-name: BuildPush Image Pipeline Docker
+name: Build-Push Image Pipeline Docker
 
 on: [push]
 
